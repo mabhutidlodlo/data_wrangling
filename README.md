@@ -1,5 +1,6 @@
 # data_wrangling
 
+A python 3 script to get normalized CSV data file of Road Safety Facts and Figures in the EU
 
 # Setup
 To run this project
