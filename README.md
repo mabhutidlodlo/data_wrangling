@@ -1,8 +1,7 @@
 # data_wrangling
 
-```
 
-## Setup
+# Setup
 To run this project
 
 ```
