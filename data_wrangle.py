@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import requests
 
+
 data_url ='https://en.wikipedia.org/wiki/Road_safety_in_Europe'
 
 page = requests.get(data_url)
