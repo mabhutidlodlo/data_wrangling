@@ -25,6 +25,6 @@ if page.status_code ==200:
     
   with open('../data/data.csv', 'w', newline='') as f:
     writer = csv.writer(f)
-    headers = ["Country,Year,Area,Population,GDP per capita,Population density,Vehicle ownership,Total Road Deaths,Road deaths per Million Inhabitants"] 
+    headers = ["Country","Year","Area","Population","GDP per capita","Population density","Vehicle ownership","Total Road Deaths","Road deaths per Million Inhabitants"] 
     writer.writerow(headers)
     writer.writerows(sorted)
