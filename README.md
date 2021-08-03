@@ -1,8 +1,7 @@
 # data_wrangling
 
-```
 
-## Setup
+# Setup
 To run this project
 
 ```
@@ -11,4 +10,5 @@ $ cd data_wrangling
 $ virtualenv venv
 $ source venv/bin/activate
 $ pip3 install -r requirements.txt 
+$ cd scripts
 $ python3 data_wrangle.py
